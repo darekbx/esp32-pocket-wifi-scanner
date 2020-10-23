@@ -6,3 +6,6 @@
 * WiFi scan results are send over bluetooth
 * Battery meter
 * Temperature meter
+
+#### 
+![](pocket-wifi-scanner.gif)
